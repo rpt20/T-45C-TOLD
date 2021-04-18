@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goshawk-takeoff/static/css/main.56b8c225.chunk.css",
+    "main.css": "/goshawk-takeoff/static/css/main.94b78f7c.chunk.css",
     "main.js": "/goshawk-takeoff/static/js/main.fa8f0806.chunk.js",
     "main.js.map": "/goshawk-takeoff/static/js/main.fa8f0806.chunk.js.map",
     "runtime-main.js": "/goshawk-takeoff/static/js/runtime-main.bbc24024.js",
@@ -10,14 +10,14 @@
     "static/js/3.4486b953.chunk.js": "/goshawk-takeoff/static/js/3.4486b953.chunk.js",
     "static/js/3.4486b953.chunk.js.map": "/goshawk-takeoff/static/js/3.4486b953.chunk.js.map",
     "index.html": "/goshawk-takeoff/index.html",
-    "static/css/main.56b8c225.chunk.css.map": "/goshawk-takeoff/static/css/main.56b8c225.chunk.css.map",
+    "static/css/main.94b78f7c.chunk.css.map": "/goshawk-takeoff/static/css/main.94b78f7c.chunk.css.map",
     "static/js/2.0179b348.chunk.js.LICENSE.txt": "/goshawk-takeoff/static/js/2.0179b348.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/goshawk-takeoff/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bbc24024.js",
     "static/js/2.0179b348.chunk.js",
-    "static/css/main.56b8c225.chunk.css",
+    "static/css/main.94b78f7c.chunk.css",
     "static/js/main.fa8f0806.chunk.js"
   ]
 }
